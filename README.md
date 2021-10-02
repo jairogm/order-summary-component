@@ -40,15 +40,13 @@ It was quite easy to folllow and to do still need to work on my CSS skills.
 
 ### What I learned
 
-Learn CSS is about preactice and not taking it for granted, how to center a div is really important and being creative and work with what you have, still have some areas of improvement 
-To see how you can add code snippets, see below:
+Learn CSS is about practice and not taking it for granted, how to center a div is really important, being creative and know how to work with what you have, still have some areas of improvement 
 
 ### Continued development
 
-next, I want to keep learning about CSS maybe learn enough JavaScript to start doing unir projects on FrontEndMentor
+next, I want to keep learning about CSS maybe learn enough JavaScript to start doing junior projects from FrontEndMentor
 
 ## Author
 
 - Website - [Jhon Jairo Garces  Montes](https://www.linkedin.com/in/jhongarces/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [@jairogm_](https://www.instagram.com/jairogm_/)
