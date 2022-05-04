@@ -46,5 +46,4 @@ next, I want to keep learning about CSS maybe implement this card component on R
 
 ## Author
 
-- Website - [Jhon Jairo Garces  Montes](https://www.linkedin.com/in/jhongarces/)
-- Instagram - [@jairogm_](https://www.instagram.com/jairogm_/)
+- Website - [Jhon Jairo Garces  Montes](https://jhongarces.dev)
