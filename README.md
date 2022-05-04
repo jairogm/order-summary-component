@@ -1,6 +1,4 @@
-# Order summary card solution
-
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Order summary card component 
 
 ## Table of contents
 
@@ -40,11 +38,11 @@ It was quite easy to folllow and to do still need to work on my CSS skills.
 
 ### What I learned
 
-Learn CSS is about practice and not taking it for granted, how to center a div is really important, being creative and know how to work with what you have, still have some areas of improvement 
+Learn CSS is about practice and not taking it for granted, how to center a div is really important, being creative and know how to work with what you have; still have some areas of improvement 
 
 ### Continued development
 
-next, I want to keep learning about CSS maybe learn enough JavaScript to start doing junior projects from FrontEndMentor
+next, I want to keep learning about CSS maybe implement this card component on ReactJS and styled it with styled components in the future
 
 ## Author
 
